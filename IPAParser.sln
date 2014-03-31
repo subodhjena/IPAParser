@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPAParser", "IPAParser\IPAParser.csproj", "{99B411CC-EE27-424A-B1A4-00FC7254951B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Run", "Run\Run.csproj", "{495D31D3-C469-4ACC-A23E-CB81D283D6C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B411CC-EE27-424A-B1A4-00FC7254951B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B411CC-EE27-424A-B1A4-00FC7254951B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B411CC-EE27-424A-B1A4-00FC7254951B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B411CC-EE27-424A-B1A4-00FC7254951B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495D31D3-C469-4ACC-A23E-CB81D283D6C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495D31D3-C469-4ACC-A23E-CB81D283D6C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495D31D3-C469-4ACC-A23E-CB81D283D6C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495D31D3-C469-4ACC-A23E-CB81D283D6C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
